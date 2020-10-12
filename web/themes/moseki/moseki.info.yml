@@ -1,0 +1,16 @@
+name: Moseki 1.0
+type: theme
+base theme: classy
+description: 'Custom Theme made by Nelly Moseki'
+package: Core
+libraries:
+  - moseki/base
+regions:
+  header_left: Header Left
+  header_right: Header Right
+  content_top: Content Top
+  content: Content Main
+  content_bottom: Content Bottom
+  footer_left_top: Footer Left Top
+  footer_right_top: Footer Right Top
+  footer_bottom: Footer Bottom
