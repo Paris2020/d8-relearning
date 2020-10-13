@@ -1,0 +1,38 @@
+{
+  "name": "d8-relearning",
+  "version": "1.0.0",
+  "description": "Drupal 8 Re-learning project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "../../../node_modules/.bin/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paris2020/d8-relearning.git"
+  },
+  "author": "Nelly Moseki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paris2020/d8-relearning/issues"
+  },
+  "homepage": "https://github.com/Paris2020/d8-relearning#readme",
+  "devDependencies": {
+    "breakpoint-sass": "^2.7.1",
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglifyjs": "^0.6.2"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-changed": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-line-ending-corrector": "^1.0.3",
+    "gulp-livereload": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "imagemin-pngquant": "^9.0.1"
+  }
+}
